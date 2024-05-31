@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\code\COS20007\SplashKit\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
